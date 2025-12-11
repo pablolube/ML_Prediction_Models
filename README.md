@@ -10,7 +10,7 @@ Forma parte de mi **Portfolio Profesional como Data Analyst / Data Scientist**.
 
 | Nº | Proyecto | Objetivo del Modelo | Técnicas / Algoritmos | Repositorio |
 |----|----------|--------------------|------------------------|-------------|
-| **01** | **Detección de Fraude** | Identificar transacciones financieras fraudulentas para reducir pérdidas operativas. | EDA, SMOTE, Logistic Regression, Random Forest, XGBoost, Métricas F1/Recall. | 🔗 [Ir al proyecto](./Fraud_Detection) |
+| **01** | **Detección de Fraude** | Identificar transacciones financieras fraudulentas para reducir pérdidas operativas. | EDA, SMOTE, Logistic Regression, Random Forest, XGBoost, Métricas F1/Recall. | 🔗 [Ir al proyecto](https://github.com/pablolube/ML_PredictionModels/tree/main/Ecobicis_Analysis) |
 | **02** | **Análisis y Predicción del Sistema Ecobici** | Predecir patrones de uso y comportamiento de usuarios del sistema Ecobici. | EDA, Feature Engineering, Random Forest, XGBoost, Interpretabilidad. | 🔗 [Ir al proyecto](./Ecobici_Usage_Analysis) |
 
 ---
