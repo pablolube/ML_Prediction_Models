@@ -1,0 +1,105 @@
+home,score,away,year
+México,Partido 1,Sudáfrica,2026
+Corea del Sur,Partido 2,A4,2026
+A4,Partido 25,Sudáfrica,2026
+México,Partido 28,Corea del Sur,2026
+A4,Partido 53,México,2026
+Sudáfrica,Partido 54,Corea del Sur,2026
+Canadá,Partido 3,B2,2026
+Catar,Partido 8,Suiza,2026
+Suiza,Partido 26,B2,2026
+Canadá,Partido 27,Catar,2026
+Suiza,Partido 51,Canadá,2026
+B2,Partido 52,Catar,2026
+Brasil,Partido 7,Marruecos,2026
+Haití,Partido 5,Escocia,2026
+Brasil,Partido 29,Haití,2026
+Escocia,Partido 30,Marruecos,2026
+Escocia,Partido 49,Brasil,2026
+Marruecos,Partido 50,Haití,2026
+Estados Unidos,Partido 4,Paraguay,2026
+Australia,Partido 6,D4,2026
+D4,Partido 31,Paraguay,2026
+Estados Unidos,Partido 32,Australia,2026
+D4,Partido 59,Estados Unidos,2026
+Paraguay,Partido 60,Australia,2026
+Alemania,Partido 9,Curazao,2026
+Costa de Marfil,Partido 10,Ecuador,2026
+Alemania,Partido 33,Costa de Marfil,2026
+Ecuador,Partido 34,Curazao,2026
+Ecuador,Partido 56,Alemania,2026
+Curazao,Partido 55,Costa de Marfil,2026
+Países Bajos,Partido 11,Japón,2026
+F3,Partido 12,Túnez,2026
+Países Bajos,Partido 35,F3,2026
+Túnez,Partido 36,Japón,2026
+Japón,Partido 57,F3,2026
+Túnez,Partido 58,Países Bajos,2026
+Irán,Partido 15,Nueva Zelanda,2026
+Bélgica,Partido 16,Egipto,2026
+Bélgica,Partido 39,Irán,2026
+Nueva Zelanda,Partido 40,Egipto,2026
+Nueva Zelanda,Partido 64,Bélgica,2026
+Egipto,Partido 63,Irán,2026
+España,Partido 14,Cabo Verde,2026
+Arabia Saudita,Partido 13,Uruguay,2026
+España,Partido 38,Arabia Saudita,2026
+Uruguay,Partido 37,Cabo Verde,2026
+Uruguay,Partido 66,España,2026
+Cabo Verde,Partido 65,Arabia Saudita,2026
+Francia,Partido 17,Senegal,2026
+I3,Partido 18,Noruega,2026
+Francia,Partido 42,I3,2026
+Noruega,Partido 41,Senegal,2026
+Noruega,Partido 61,Francia,2026
+Senegal,Partido 62,I3,2026
+Argentina,Partido 19,Argelia,2026
+Austria,Partido 20,Jordania,2026
+Argentina,Partido 43,Austria,2026
+Jordania,Partido 44,Argelia,2026
+Jordania,Partido 70,Argentina,2026
+Argelia,Partido 69,Austria,2026
+Portugal,Partido 23,K2,2026
+Uzbekistán,Partido 24,Colombia,2026
+Portugal,Partido 47,Uzbekistán,2026
+Colombia,Partido 48,K2,2026
+Colombia,Partido 71,Portugal,2026
+K2,Partido 72,Uzbekistán,2026
+Inglaterra,Partido 22,Croacia,2026
+Ghana,Partido 21,Panamá,2026
+Inglaterra,Partido 45,Ghana,2026
+Panamá,Partido 46,Croacia,2026
+Panamá,Partido 67,Inglaterra,2026
+Croacia,Partido 68,Ghana,2026
+2A,Partido 73,2B,2026
+1E,Partido 74,3A/B/C/D/F,2026
+1F,Partido 75,2C,2026
+1C,Partido 76,2F,2026
+1I,Partido 77,3C/D/F/G/H,2026
+2E,Partido 78,2I,2026
+1A,Partido 79,3C/E/F/H/I,2026
+1L,Partido 80,3E/H/I/J/K,2026
+1D,Partido 81,3B/E/F/I/J,2026
+1G,Partido 82,3A/E/H/I/J,2026
+2K,Partido 83,2L,2026
+1H,Partido 84,2J,2026
+1B,Partido 85,3E/F/G/I/J,2026
+1J,Partido 86,2H,2026
+1K,Partido 87,3D/E/I/J/L,2026
+2D,Partido 88,2G,2026
+Ganador Partido 74,Partido 89,Ganador Partido 77,2026
+Ganador Partido 73,Partido 90,Ganador Partido 75,2026
+Ganador Partido 76,Partido 91,Ganador Partido 78,2026
+Ganador Partido 79,Partido 92,Ganador Partido 80,2026
+Ganador Partido 83,Partido 93,Ganador Partido 84,2026
+Ganador Partido 81,Partido 94,Ganador Partido 82,2026
+Ganador Partido 86,Partido 95,Ganador Partido 88,2026
+Ganador Partido 85,Partido 96,Ganador Partido 87,2026
+Ganador Partido 89,Partido 97,Ganador Partido 90,2026
+Ganador Partido 93,Partido 98,Ganador Partido 94,2026
+Ganador Partido 91,Partido 99,Ganador Partido 92,2026
+Ganador Partido 95,Partido 100,Ganador Partido 96,2026
+Ganador Partido 97,Partido 101,Ganador Partido 98,2026
+Ganador Partido 99,Partido 102,Ganador Partido 100,2026
+Perdedor Partido 101,Partido 103,Perdedor Partido 102,2026
+Ganador Partido 101,Partido 104,Ganador Partido 102,2026
